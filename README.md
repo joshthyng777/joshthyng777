@@ -1,8 +1,8 @@
 # JoshThyng777 🎰
 
-**`Aspiring Data Scientist (College Student/Blogger)`**
+**`College Student (Fitness/Blogger)`**
 
-I am a college student currently studying computer science. I spend most of my time programming in Python (the superior coding language). I am currently obtaining the skills to become a data scientist.
+My name is Josh Thyng and I am currently a student studying computer science. I spend a majority of my time coding or learning new things about coding.
 
 -I’m currently learning about Machine Learning 🤖
 
