@@ -18,6 +18,8 @@ My name is Josh Thyng and I am currently a student studying computer science. I 
 
 <img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
+
 <br>
 <p> </p>
 
