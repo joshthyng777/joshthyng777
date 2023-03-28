@@ -8,6 +8,8 @@ My name is Josh Thyng and I am currently a student studying computer science. I 
 
 -How to reach me: [Twitter](https://twitter.com/joshthyng777) 🐤
 
+-My Kaggle Account: [Kaggle](https://www.kaggle.com/joshthyng) 📈
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
