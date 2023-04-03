@@ -10,6 +10,8 @@ My name is Josh Thyng and I am currently a student studying computer science. I 
 
 -My Kaggle Account: [Kaggle](https://www.kaggle.com/joshthyng) 📈
 
+-My LeetCode Account: [LeetCode](https://leetcode.com/josh10187/) 🤔
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
