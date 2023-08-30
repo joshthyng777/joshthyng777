@@ -1,16 +1,10 @@
 # JoshThyng777 🎰
 
-**`College Student (Fitness/Blogger)`**
+- ML
 
-My name is Josh Thyng and I am currently a student studying computer science. I spend a majority of my time coding or learning new things about coding.
+-My Kaggle Account: [Kaggle](https://www.kaggle.com/joshthyng)
 
--I’m currently learning about Machine Learning 🤖
-
--How to reach me: [Twitter](https://twitter.com/joshthyng777) 🐤
-
--My Kaggle Account: [Kaggle](https://www.kaggle.com/joshthyng) 📈
-
--My LeetCode Account: [LeetCode](https://leetcode.com/josh10187/) 🤔
+-My LeetCode Account: [LeetCode](https://leetcode.com/josh10187/)
 
 ### Languages and Tools:
 
